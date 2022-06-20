@@ -1,1 +1,1 @@
-FROM store/gitlab/gitlab-ce:11.10.4-ce.0
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.6.1
