@@ -1,1 +1,1 @@
-FROM containiq/containiq:v0.7.0
+FROM containiq/latency-controller:v0.4.0
