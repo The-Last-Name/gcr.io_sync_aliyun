@@ -1,1 +1,1 @@
-FROM registry.k8s.io/dns/k8s-dns-node-cache:1.22.8
+FROM registry.k8s.io/ingress-nginx/controller:v1.3.0
