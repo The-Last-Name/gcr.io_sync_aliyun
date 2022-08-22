@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/nfs-client-provisioner:latest
+FROM apache/apisix:2.15.0-alpine
