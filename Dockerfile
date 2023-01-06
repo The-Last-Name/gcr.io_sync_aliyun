@@ -1,1 +1,1 @@
-FROM apache/apisix:2.15.0-alpine
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.43.0
